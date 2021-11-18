@@ -1,4 +1,4 @@
-# AWS EC2 Lauch Template Shell Scripts
+# AWS EC2 LauNch Template Shell Scripts
 This would get you flask application up and running on your EC2 upon launch.
 
 Place this in the 
